@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on technical support;
 - 🌱 I’m currently learning JavaScript/ES6+, React;
 - 👯 I’m looking to collaborate on Front-end projects using Html5, Css3 and JavaScript;
-- 📫 How to reach me: You can send a email to <devjoaopedro@outlook.com> or contact me using [Linkedin](www.linkedin.com/in/john1pedro2)
+- 📫 How to reach me: You can send a email to <devjoaopedro@outlook.com> or contact me using [Linkedin](https://www.linkedin.com/in/john1pedro2/)
 <!--
 **john1pedro2/john1pedro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
