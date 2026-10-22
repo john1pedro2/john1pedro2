@@ -31,4 +31,4 @@ I'm a Computer Science graduate and software developer from Brazil, focused on b
 
 [LinkedIn](https://www.linkedin.com/in/john1pedro2/) · [Email](mailto:devjoaopedro@outlook.com)
 
-🌐 **Language:** English | [Português](./README.pt-BR.md)
+🇺🇸 English | [🇧🇷 Português](./README.pt-BR.md)
